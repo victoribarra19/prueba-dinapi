@@ -5,7 +5,7 @@ Proyecto elaborado en Django versión 4.2.5
 
 Asegúrate de tener instalados los siguientes requisitos en tu sistema:
 
-- [python]([https://www.python.org/downloads/)) = 3.11.5
+- [python]([https://www.python.org/downloads/) = 3.11.5
 - [pip] = 22.3.1
 
 
